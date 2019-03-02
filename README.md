@@ -8,4 +8,4 @@ Assignment3: Variational Inferene
 numpy, scipy, csv
 
 # Additional Notes
-Each Program is tested on dataset provided by the instructor. The datasets can be found in the folder containing the code. 
+Each program is tested on dataset provided by the instructor. The datasets can be found in the folder containing the code. 
